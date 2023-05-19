@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xx4qw\\Desktop\\MatrixConversion\\MatrixConversion\\MatrixConversion\\MatrixConversion3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xx4qw\\Desktop\\MatrixConversion\\MatrixConversion\\MatrixConversion\\MatrixConversion3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xx4qw\\Desktop\\MatrixConversion\\MatrixConversion\\MatrixConversion\\MatrixConversion3.csproj",
+        "projectName": "MatrixConversion3",
+        "projectPath": "C:\\Users\\xx4qw\\Desktop\\MatrixConversion\\MatrixConversion\\MatrixConversion\\MatrixConversion3.csproj",
+        "packagesPath": "C:\\Users\\xx4qw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xx4qw\\Desktop\\MatrixConversion\\MatrixConversion\\MatrixConversion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xx4qw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

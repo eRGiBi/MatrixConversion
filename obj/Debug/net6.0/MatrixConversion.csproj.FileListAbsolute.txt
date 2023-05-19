@@ -1,0 +1,51 @@
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.exe
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.deps.json
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.runtimeconfig.json
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.pdb
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.AssemblyReference.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfoInputs.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfo.cs
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CoreCompileInputs.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\refint\MatrixConversion.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.pdb
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.genruntimeconfig.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\ref\MatrixConversion.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CopyComplete
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.exe
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.deps.json
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.runtimeconfig.json
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.dll
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.pdb
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\CsvHelper.dll
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.AssemblyReference.cache
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfoInputs.cache
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfo.cs
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CoreCompileInputs.cache
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CopyComplete
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.dll
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\refint\MatrixConversion.dll
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.pdb
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.genruntimeconfig.cache
+C:\Files\Egyetem\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\ref\MatrixConversion.dll
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.exe
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.deps.json
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.runtimeconfig.json
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.dll
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion.pdb
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\CsvHelper.dll
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.AssemblyReference.cache
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfoInputs.cache
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.AssemblyInfo.cs
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CoreCompileInputs.cache
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.csproj.CopyComplete
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.dll
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\refint\MatrixConversion.dll
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.pdb
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion.genruntimeconfig.cache
+E:\Egyetem\5. félév\Az informatika biztonság 1\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\ref\MatrixConversion.dll

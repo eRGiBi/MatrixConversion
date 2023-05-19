@@ -1,0 +1,15 @@
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion3.exe
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion3.deps.json
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion3.runtimeconfig.json
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion3.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\bin\Debug\net6.0\MatrixConversion3.pdb
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.csproj.AssemblyReference.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.AssemblyInfoInputs.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.AssemblyInfo.cs
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.csproj.CoreCompileInputs.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\refint\MatrixConversion3.dll
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.pdb
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\MatrixConversion3.genruntimeconfig.cache
+C:\Users\xx4qw\Desktop\MatrixConversion\MatrixConversion\MatrixConversion\obj\Debug\net6.0\ref\MatrixConversion3.dll
